@@ -1,4 +1,6 @@
-# Hill Climbing Algorithm for Eight Queens Problem
+## Ex no: 5
+## Date: 23/5/2022
+# <p align="center">Hill Climbing Algorithm for Eight Queens Problem
 ## AIM
 
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
